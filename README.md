@@ -9,6 +9,7 @@ pip freeze > requirements.txt
 เมื่อต้องการ install dependency จาก requirement.txt
 ```
 pip install -r requirements.txt
+pip uninstall -y -r requirements.txt
 ```
  
 ## dependencies
